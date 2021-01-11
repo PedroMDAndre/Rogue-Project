@@ -1,0 +1,21 @@
+#
+#;0;O;room2.txt;1
+#;1;D;room4.txt;0
+#
+#
+#
+#
+*
+*
+*
+*
+WWWWWWWWWW
+W  xFxx  W
+W WT  T  W
+W W 1    W
+W W      W
+W W      W
+W WT  T  W
+0 WWWWWm W
+W     x  W
+WWWWWWWWWW

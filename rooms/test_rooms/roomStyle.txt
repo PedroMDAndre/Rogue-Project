@@ -1,0 +1,33 @@
+0;1     ;2;      ;3          ;4
+#;doorNr;doorType;destinyRoom;destinyDoor
+#
+0;1  ;2    ;3    ;4     ; 5
+*;key;pos_x;pos_y;doorNr; roomNr
+*
+WWWWWWWWWW
+   Room
+WWWWWWWWWW
+id_char	Objectos	Type
+G	    BadGuy	    Enemies
+B	    Bat     	Enemies
+(none)	Black	    Status
+C	    DoorClosed	Room
+O	    DoorOpen	Room
+w	    DoorWay 	Room
+F	    Fire	    Items
+(none)	Floor	    Room
+m	    GoodMeat	Items
+g	    Grass	    Room
+(none)	Green	    Status
+h	    Hammer  	Items
+H	    Hero
+k	    Key     	Items
+(none)	Red	        Status
+(none)	RedGreen	Status
+S   	Skeleton	Enemies
+D   	StairsDown	Room
+U   	StairsUp	Room
+s   	Sword	    Items
+T   	Thief	    Enemies
+x   	Trap	    Room
+W   	Wall	    Room

@@ -1,0 +1,21 @@
+#
+#;0;w;room0.txt;0
+#
+#
+#
+#
+#
+*
+*;key;5;5;1;4
+*
+*
+WWWW0WWWWW
+W        W
+W gggggg W
+W gB  Bg W
+W g s  g W
+W g  k g W
+W gB  Bg W
+W gggggg W
+W        W
+WWWWWWWWWW

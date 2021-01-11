@@ -1,0 +1,21 @@
+#
+#;0;C;room4.txt;0
+#
+#
+#
+#
+#
+*
+*
+*
+*
+WWWWWWWWWW
+WW      WW
+0 gggggg W
+W gW  Wg W
+W g  G g W
+W g x  g W
+W gW  Wg W
+W gggggg W
+WW      WW
+WWWWWWWWWW

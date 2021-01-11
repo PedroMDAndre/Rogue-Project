@@ -1,0 +1,21 @@
+#
+#;0;w;room1.txt;0
+#;1;C;room2.txt;0
+#
+#
+#
+#
+*
+*;key;8;3;1;0
+*
+*
+WWWWWWWWWW
+WH  F    W
+W W   W SW
+W W   W kW
+W WW WW  1
+W WgggW  W
+W WS SW SW
+W W F W  W
+W   x    W
+WWWW0WWWWW
